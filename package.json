@@ -1,0 +1,18 @@
+{
+  "name": "post-data-receiver",
+  "version": "0.0.0",
+  "description": "A simple node.js app that receive HTTP POST request and echo to console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moononournation/post_data_receiver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moononournation/post_data_receiver/issues"
+  }
+}
